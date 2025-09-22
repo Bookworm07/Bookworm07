@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @GiseBarbera
+# 👋 Hi, I’m @GiseBar
 
 - 👀 I’m interested in QA Testing (manual and automation) and software development
 - 🌱 I’m currently pursuing an Associate's Degree in Software Development
